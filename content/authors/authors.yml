@@ -1,0 +1,7 @@
+- name: Anthony Graham
+  bio: |
+    Chief Information Security Officer at the University of Cytroy
+  avatar: ./avatars/anthony.jpg
+  social:
+    - url: https://github.com/cytroy
+  featured: true
